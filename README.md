@@ -77,8 +77,5 @@ Feel free to fork this project, submit pull requests, or suggest improvements vi
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Created with ❤️ by Melisa Sever with assistance from Grok (xAI).
 
    
